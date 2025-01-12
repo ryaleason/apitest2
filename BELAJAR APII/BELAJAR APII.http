@@ -1,0 +1,6 @@
+@BELAJAR_APII_HostAddress = http://localhost:5130
+
+GET {{BELAJAR_APII_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

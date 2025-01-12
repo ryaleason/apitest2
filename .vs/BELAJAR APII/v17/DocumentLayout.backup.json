@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|c:\\users\\user\\source\\repos\\belajar apii\\belajar apii\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|solutionrelative:belajar apii\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|c:\\users\\user\\source\\repos\\belajar apii\\belajar apii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|solutionrelative:belajar apii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|c:\\users\\user\\source\\repos\\belajar apii\\belajar apii\\models\\siswadtoname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|solutionrelative:belajar apii\\models\\siswadtoname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|c:\\users\\user\\source\\repos\\belajar apii\\belajar apii\\models\\siswadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|solutionrelative:belajar apii\\models\\siswadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|c:\\users\\user\\source\\repos\\belajar apii\\belajar apii\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|solutionrelative:belajar apii\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|c:\\users\\user\\source\\repos\\belajar apii\\belajar apii\\models\\sekolahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|solutionrelative:belajar apii\\models\\sekolahdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|c:\\users\\user\\source\\repos\\belajar apii\\belajar apii\\models\\kotum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|solutionrelative:belajar apii\\models\\kotum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|c:\\users\\user\\source\\repos\\belajar apii\\belajar apii\\models\\sekolah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B9A65-6B56-4057-BF14-77F6AD71220D}|BELAJAR APII\\BELAJAR APII.csproj|solutionrelative:belajar apii\\models\\sekolah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SiswaDtoName.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\SiswaDtoName.cs",
+              "RelativeDocumentMoniker": "BELAJAR APII\\Models\\SiswaDtoName.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\SiswaDtoName.cs",
+              "RelativeToolTip": "BELAJAR APII\\Models\\SiswaDtoName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T04:02:35.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kotum.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\Kotum.cs",
+              "RelativeDocumentMoniker": "BELAJAR APII\\Models\\Kotum.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\Kotum.cs",
+              "RelativeToolTip": "BELAJAR APII\\Models\\Kotum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:06:20.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sekolah.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\Sekolah.cs",
+              "RelativeDocumentMoniker": "BELAJAR APII\\Models\\Sekolah.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\Sekolah.cs",
+              "RelativeToolTip": "BELAJAR APII\\Models\\Sekolah.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:56:13.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "BELAJAR APII\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "BELAJAR APII\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:54:00.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Program.cs",
+              "RelativeDocumentMoniker": "BELAJAR APII\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Program.cs",
+              "RelativeToolTip": "BELAJAR APII\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:31:52.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiswaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\SiswaDTO.cs",
+              "RelativeDocumentMoniker": "BELAJAR APII\\Models\\SiswaDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\SiswaDTO.cs",
+              "RelativeToolTip": "BELAJAR APII\\Models\\SiswaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:17:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BELAJAR APII\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\Student.cs",
+              "RelativeToolTip": "BELAJAR APII\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:17:21.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SekolahDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\SekolahDbContext.cs",
+              "RelativeDocumentMoniker": "BELAJAR APII\\Models\\SekolahDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\BELAJAR APII\\BELAJAR APII\\Models\\SekolahDbContext.cs",
+              "RelativeToolTip": "BELAJAR APII\\Models\\SekolahDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAArwEMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:16:56.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

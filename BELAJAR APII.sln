@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BELAJAR APII", "BELAJAR APII\BELAJAR APII.csproj", "{731B9A65-6B56-4057-BF14-77F6AD71220D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731B9A65-6B56-4057-BF14-77F6AD71220D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731B9A65-6B56-4057-BF14-77F6AD71220D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731B9A65-6B56-4057-BF14-77F6AD71220D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731B9A65-6B56-4057-BF14-77F6AD71220D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F593AA-550B-4687-ADC2-646724776080}
+	EndGlobalSection
+EndGlobal
