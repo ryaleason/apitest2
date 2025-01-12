@@ -1,0 +1,8 @@
+[build]
+  publish = "public"  # Ganti dengan folder yang berisi file statis
+  functions = "netlify/functions"  # Folder untuk serverless functions
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api"  # Mengarahkan request ke function
+  status = 200
