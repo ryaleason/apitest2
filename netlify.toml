@@ -1,6 +1,6 @@
 [build]
   publish = "public"  # Ganti dengan folder yang berisi file statis
-  functions = "netlify/functions"  # Folder untuk serverless 
+  functions = "netlify/functions"  # Folder untuk es 
 
 [[redirects]]
   from = "/api/*"
