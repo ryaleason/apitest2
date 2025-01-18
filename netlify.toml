@@ -1,6 +1,6 @@
 [build]
   publish = "public"  # Ganti dengan folder yang berisi file statis
-  functions = "netlify/functions"  # Folder untk w 
+  functions = "netlify/functions"  # Folder untk sdaasd
 
 [[redirects]]
   from = "/api/*"
