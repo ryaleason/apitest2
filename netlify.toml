@@ -1,5 +1,5 @@
 [build]
-  publish = "public"  # Ganti dengan folder yang berisiasdsadasd file statasdsadasis
+  publish = "public"  # Ganti dengan folder yang berisiasdsadasd ftasdsadasis
   functions = "netlify/functions"  # Folder untk sdaasd
 
 [[redirects]]
