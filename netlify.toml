@@ -6,7 +6,6 @@
 
 
 
-
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/api"  # Mengarahkan request ke functio
