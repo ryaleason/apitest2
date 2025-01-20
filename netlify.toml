@@ -1,7 +1,7 @@
 
 [build]
   publish = "public"  # Ganti dengan folder yang berisiasdsadasdftasdsarersis
-  functions = "netlify/functions"  # Folder untk dsxcczx
+  functions = "netlify/functions"  # Folder untk dsxccz
 
 
 
