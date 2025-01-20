@@ -7,5 +7,5 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "/.netlify/functions/api"  # Mengarahkan request ke functio
+  to = "/.netlify/functions/api"  # Mengarahkan requst ke functio
   status = 200
