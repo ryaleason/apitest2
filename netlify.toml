@@ -1,4 +1,4 @@
-[build]
+e[build]
   publish = "public"  # Ganti dengan folder yang berisiasdsadasdftasearersi
   functions = "netlify/functions"  # Folder untk dsx
 
